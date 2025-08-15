@@ -6,7 +6,7 @@
 ## 🔗 Raw Dataset Link
 
 **Dataset Source:** [Disneyland Reviews on Kaggle](https://www.kaggle.com/datasets/arushchillar/disneyland-reviews)
-[Disneyland Reviews Dataset (Kaggle)](https://www.kaggle.com/datasets/erikvdven/disneyland-reviews)
+
   The dataset contains 1,000 analyzed reviews as a sample from a larger collection of Disneyland reviews. It covers reviews from 2009 to 2019 across three Disneyland locations such as California, Paris, and Hong Kong. Each review includes a star rating (1–5) and a written comment, with contributions from visitors around the world, including the United States, Australia, Malta, and Canada.
 
 ## 💡 Insights & Findings
