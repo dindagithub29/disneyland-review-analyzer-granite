@@ -21,15 +21,24 @@
 ### 🧠 How AI Help
 
 This project uses **IBM Granite**, a Natural Language Processing (NLP) model, to perform sentiment classification.
+
 Steps:
+
 **1. Data Preprocessing**
+
 - Clean text from unnecessary symbols and characters.
 - Normalize text to a consistent format.
+
 **2. Prompt Engineering**
+
 - Design specific prompts for IBM Granite to classify reviews into Positive, Neutral, or Negative.
+
 **3. Model Inference**
+
 - Use the IBM Granite API to process each review.
+
 **4. Result Analysis**
+
 - Collect classification results.
 - Visualize sentiment distribution.
 ---
