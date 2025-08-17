@@ -44,4 +44,4 @@ Steps:
 - Visualize sentiment distribution.
 ---
 
-*This project shows how AI can help businesses understand their customers better and make smarter decisions to improve everyone's experience!*
+*This project shows how AI can help businesses understand their customers better and make smarter decisions to improve everyone's experience! Prepared as part of the IBM Skills Build × Hactive8 capstone. Thanks to IBM Granite and Google Colab.*
